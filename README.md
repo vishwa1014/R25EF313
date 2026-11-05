@@ -6,3 +6,4 @@ skill:Learning Java
 
 interest:web development
 
+goal:contribute to open source
