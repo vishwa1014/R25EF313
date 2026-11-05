@@ -4,4 +4,5 @@ I am interested in programming, web development, and emerging technologies.
 This repository contains my learning journey, projects.
 skill:Learning Java
 
+interest:web development
 
